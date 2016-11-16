@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="Gradle : ClusterDBConsistency : ClusterDB.war">
-    <output-path>$PROJECT_DIR$/out/artifacts/ClusterDB</output-path>
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/ClusterDB</output-path>
     <properties id="gradle-properties">
       <options external-project-path="$PROJECT_DIR$" />
     </properties>
@@ -13,7 +13,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/ClusterDB/exploded/ClusterDB.war/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/build/classes/artifacts/ClusterDB/exploded/ClusterDB.war/META-INF/MANIFEST.MF" />
       </element>
     </root>
   </artifact>
