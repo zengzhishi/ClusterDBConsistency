@@ -1,0 +1,52 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.lug : ClusterDBConsistency-Master-0.0.1-0.0.1.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/classes/artifacts/ClusterDBConsistency-ClusterDBConsistency/exploded/ClusterDBConsistency-Master-0.0.1-0.0.1.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ClusterDBConsistency-ClusterDBConsistency_main/web/Web Gradle : ClusterDBConsistency-Master-0.0.1-0.0.1.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ClusterDBConsistency-ClusterDBConsistency_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/MasterDB/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.aspectj:aspectjrt:1.8.2" />
+          <element id="library" level="project" name="Gradle: org.aspectj:aspectjweaver:1.8.2" />
+          <element id="library" level="project" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.7" />
+          <element id="library" level="project" name="Gradle: org.slf4j:jul-to-slf4j:1.7.7" />
+          <element id="library" level="project" name="Gradle: ch.qos.logback:logback-classic:1.1.2" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.2.3" />
+          <element id="library" level="project" name="Gradle: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
+          <element id="library" level="project" name="Gradle: org.codehaus.jackson:jackson-core-asl:1.9.13" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-orm:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.data:spring-data-jpa:1.7.0.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-jdbc:8.0.9" />
+          <element id="library" level="project" name="Gradle: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Gradle: com.alibaba:fastjson:1.2.7" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-web:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.7" />
+          <element id="library" level="project" name="Gradle: ch.qos.logback:logback-core:1.1.2" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.2.3" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.2.3" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-tx:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework.data:spring-data-commons:1.9.0.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.apache.tomcat:tomcat-juli:8.0.9" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.17/5af35056b4d257e4b64b9e8069c0746e8b08629f/log4j-1.2.17.jar" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/classes/artifacts/ClusterDBConsistency-ClusterDBConsistency/exploded/ClusterDBConsistency-Master-0.0.1-0.0.1.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
