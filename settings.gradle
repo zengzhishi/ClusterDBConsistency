@@ -1,0 +1,5 @@
+rootProject.name = 'ClusterDBConsistency'
+include 'MasterDB'
+findProject(':MasterDB')?.name = 'ClusterDBConsistency'
+include 'ClusterDB'
+

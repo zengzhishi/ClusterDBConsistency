@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : ClusterDBConsistency : ClusterDB.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClusterDB</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="ClusterDB.war">
+      <element id="javaee-facet-resources" facet="ClusterDB_main/web/Web Gradle : ClusterDB.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ClusterDB_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/ClusterDB/build/resources/main" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/ClusterDB/exploded/ClusterDB.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

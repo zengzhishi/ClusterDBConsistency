@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClusterDB/ClusterDB.iml" filepath="$PROJECT_DIR$/.idea/modules/ClusterDB/ClusterDB.iml" group="ClusterDB" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClusterDBConsistency.iml" filepath="$PROJECT_DIR$/.idea/modules/ClusterDBConsistency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MasterDB/ClusterDBConsistency-ClusterDBConsistency.iml" filepath="$PROJECT_DIR$/.idea/modules/MasterDB/ClusterDBConsistency-ClusterDBConsistency.iml" group="ClusterDBConsistency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MasterDB/ClusterDBConsistency-ClusterDBConsistency_main.iml" filepath="$PROJECT_DIR$/.idea/modules/MasterDB/ClusterDBConsistency-ClusterDBConsistency_main.iml" group="ClusterDBConsistency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MasterDB/ClusterDBConsistency-ClusterDBConsistency_test.iml" filepath="$PROJECT_DIR$/.idea/modules/MasterDB/ClusterDBConsistency-ClusterDBConsistency_test.iml" group="ClusterDBConsistency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClusterDB/ClusterDB_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ClusterDB/ClusterDB_main.iml" group="ClusterDB" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ClusterDB/ClusterDB_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ClusterDB/ClusterDB_test.iml" group="ClusterDB" />
+    </modules>
+  </component>
+</project>
