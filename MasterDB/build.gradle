@@ -40,6 +40,9 @@ dependencies {
     compile 'org.springframework.data:spring-data-jpa:1.7.0.RELEASE'
     compile 'org.apache.tomcat:tomcat-jdbc:8.0.9'
 
+    //spring web socket
+    compile group: 'org.springframework', name: 'spring-websocket', version: springVersion
+
     //Servlet
     compile "javax.servlet:jstl:1.2"
 
